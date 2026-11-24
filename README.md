@@ -17,3 +17,9 @@ El proyecto se presentó como prototipo en la etapa regional. La incorporación 
 ## Mi contribución
 
 Propuse la idea original y participé en la construcción de la maqueta, el cableado y la integración electrónica. Programé el ESP32 con Arduino IDE y colaboré en la integración del software de monitoreo y en las pruebas de funcionamiento del conjunto.
+
+## Montaje en el HackaTec Regional
+
+![Equipo de CooLogix trabajando en la maqueta durante el HackaTec Regional](coologix-montaje.jpg)
+
+*Los 5 Fantásticos durante el ensamblaje de la maqueta.*
