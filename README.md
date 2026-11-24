@@ -26,7 +26,7 @@ Propuse la idea original. Participé en la construcción, el cableado y la integ
 
 El equipo integró el sistema físico y la interfaz para su presentación regional. La incorporación por módulos en una línea real formó parte de la propuesta de implementación.
 
-## Evidencia del montaje
+## Montaje en el HackaTec Regional
 
 <a href="coologix-montaje.jpg"><img src="coologix-montaje.jpg" width="540" alt="Los 5 Fantásticos durante el montaje de CooLogix en el HackaTec Regional"></a>
 
